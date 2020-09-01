@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# livejournal in the year 2020
 
-You can use the [editor on GitHub](https://github.com/mintjulips/hello-world/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## _This site is under construction._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Image](https://www.instagram.com/p/B5mUqjmHtM3/)
 
-### Markdown
+I decided to increase my web development skills. The internet isn't going away anyways.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Think I've exhausted content management systems on the internet and I almost don’t know what to do here. I feel trapped in a social media loop. Video fatigue is real.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Now that we are trying to practice social distancing to the best of our abilities in a global pandemic, it feels disheartening to log into the internet every minute and see how privatized it is today. Remember when news articles were free and not relegated to a 70 character limit? Remember when we could flex our basic html coding muscles on social media platforms, update free blogs, create open sourced wiki pages, and get cheap domain name registrations without being forced to buy a content management system that doesn’t even give you access to the backend? Now if you want to create something, internet spaces are expensive and physical spaces are prohibitively so. So what can we do?
 
-- Bulleted
-- List
+Many of the web building platforms and content management systems on the internet at this point in time don't feel as inclusive - and they've gotten expensive. I don't feel like I am able to truly express myself when I use wordpress or godaddy or squarespace or wix or any other of the privatized platforms that we have today in the <b>world wide web</b>. I don't feel like any of it conveys all that I have to say. Forget about me. All that we have to say. So we’re going back to the basics. <b6>HTML basics</b>, that is. Remember [Hamster Dance](https://www.youtube.com/watch?v=WEH2fk0ONag)? That was peak internet. Nothing will ever be as good as the hamster dance.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mintjulips/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The mission of this "[livejournal](https://www.urbandictionary.com/define.php?term=Livejournal)" and exploration into github is to create a website that is fun!
