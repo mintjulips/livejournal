@@ -14,6 +14,14 @@ Many of the web building platforms and content management systems on the interne
 
  The mission of this livejournal of the year 2020 is to explore Github, learn more coding, and create a website that is fun like what you'd find on the <b>World Wide Web</b> in 1999!
 
+ ![transparent blue top portable CD player](https://i.imgur.com/Fiihm6V.jpg)
+
+ > I had portable CD player just like this growing up.
+
+ | heading | header | head |
+ | --- | --- | --- |
+ | words | poetry | gibberish |
+
 ```HTML
 <font color= #ff0066>test test test</font>
 ```
