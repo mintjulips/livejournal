@@ -13,3 +13,7 @@ Now that we are trying to practice social distancing to the best of our abilitie
 Many of the web building platforms and content management systems on the internet at this point in time don't feel as inclusive - and they've gotten expensive. I don't feel like I am able to truly express myself when I use wordpress or godaddy or squarespace or wix or any other of the privatized platforms that we have today in the <b>world wide web</b>. I don't feel like any of it conveys all that I have to say. Forget about me. All that we have to say. So we’re going back to the basics. <b>HTML basics</b>, that is. Remember [Hamster Dance](https://www.youtube.com/watch?v=WEH2fk0ONag)
 
  The mission of this livejournal of the year 2020 is to explore Github, learn more coding, and create a website that is fun like what you'd find on the <b>World Wide Web</b> in 1999!
+
+```HTML
+<font color= #ff0066>test test test</font>
+```
