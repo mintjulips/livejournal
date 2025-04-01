@@ -1,8 +1,8 @@
 # hello-world
 
-:raising_hand: My name is Julia. I'm a writer and a zine librarian. I work in customer support with a large technology firm. Though I am **not** a web developer, I would like to learn more about building websites as a hobby. I'm also new to GitHub. Please excuse the code errors.
+:raising_hand: My name is Julia. Welcome to <b>livejournal</b>. I'm a writer and a zine librarian with professional experience in marketing and B2B, and B2C sales. Though I am **not** a web developer, I would like to learn more about building websites as a hobby. I'm also new to GitHub. Please excuse the code errors. There may be a few. It's a livejournal.
 
-This "README" will be a process document. As I learn more coding languages and systems, I am going to write on the subject of technology we used in the 90s. That means when I would otherwise use lorem ipsum filler text, I will instead perhaps write about the music I listened to in the 90s on my portable CD player, deconstruct movies from that time, or talk about what was the best Lipsmacker flavor and why (Dr. Pepper, obviously). A lot has changed since everyone started writing code for mobile screens, but I'm still nostalgic for Geocities (or Maxpages, but no one else seems to remember that one). I was searching for a democratic web host, an open sourced place where you can edit the back end, collaborate with others, and use your own code, and that's what led me to GitHub. I look forward to learning more and I would love to see what you're building too!
+This "README" is a process document. As I learn more coding languages and systems, I am going to write on the subject of technology we used in the 90s. When I need lorem ipsum filler text, I will instead perhaps write about the music I listened to in the 90s on my portable <i>frutiger aero</i> CD player, deconstruct movies from that time, or talk about what was the best Lipsmacker flavor and why (Dr. Pepper, no contest). A lot has changed since everyone started writing code for mobile screens, but I'm still nostalgic for writing HTML code on a Geocities page (or Maxpages, but no one else seems to remember that one). I am constantly searching for new democratic web hosts, for an open-sourced place where you can edit the back-end to your heart's content, collaborate with others, and create your own code. Here I am trying out GitHub. I look forward to learning more and I would love to see what you're building too!
 
 :page_facing_up: I'm using [Atom](https://atom.io) as a text editor.
 
@@ -42,6 +42,8 @@ This "README" will be a process document. As I learn more coding languages and s
 - [Imgur](https://imgur.com)
 I'd be remissed if I didn't share my feelings about Imgur. I am using Imgur primarily for image hosting. It's the most straightforward and easiest (and free!) way to upload an image, copy the image link for your code, and then it works! You can upload your own work, or you can upload other random images. I want to do my best to attribute ownership of images when I code on my site, but first I just need a place like Imgur to host them! The one thing you need to be aware of, is that in order to create an image link that you can code with you must make your image public to the Imgur community. That means opening it up to comments. I don't know who these people are, but the people who comment on it are gross. It's like the comment section of Youtube. Sometimes it's ok, sometimes it's entertaining, and other times these commenters are downright sexist. It's the only free platform for images now, but at what cost?
 
+📌 ** SEO **
+- [How to Use Google Keyword Planner (A Step-by-Step Guide)](https://www.monsterinsights.com/how-to-use-google-keyword-planner/?utm_source=drip&utm_medium=email&utm_campaign=newslt&utm_content=keyword-planner)
 
 :pushpin: **Other tools:**
 - [Emmet](https://emmet.io) 
@@ -50,12 +52,11 @@ I'd be remissed if I didn't share my feelings about Imgur. I am using Imgur prim
 
 :envelope: **Contact:**
 
-Email: julialipscomb at gmail dot com
+Email: juliaisreading at aol dot com
 
 Insta: [@mintjulips](https://www.instagram.com/mintjulips/)
-[@sewingonpaper](https://www.instagram.com/sewingonpaper/)
 
-Twitter: [@mint_julips](https://twitter.com/mint_julips) (I hardly use this except to follow the news, but I will follow back!)
+Twitter: [@mint_julips](https://twitter.com/mint_julips) (I never use this except to follow the news, but I will follow back next time I'm on!)
 
 
 
@@ -68,4 +69,4 @@ OG Personal Site: [julialipscomb.com](https://julialipscomb.com) (I'm taking the
 
 Something else that's fun: [Anna Delvey Foundation](https://annadelveyfoundation.org)
 
-& a couple others that are lost in space.
+& there were a few more but they disappeared to (internet) space)
